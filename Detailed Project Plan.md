@@ -1,4 +1,4 @@
-# 📆 **DETAILED PROJECT PLAN — LifeFlow**
+# 📆 **DETAILED PROJECT PLAN — LifeMerge**
 
 ## Формат:
 

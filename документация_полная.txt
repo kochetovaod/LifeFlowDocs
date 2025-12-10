@@ -3,7 +3,7 @@
 ├── combine_md.sh
 ├── Detailed Project Plan.md
 ├── Dor_DoD.md
-├── LifeFlow
+├── LifeMerge
 │   ├── 00_Administration
 │   │   ├── Decisions_Log.md
 │   │   ├── Glossary.md
@@ -161,80 +161,80 @@
 === MARKDOWN ФАЙЛЫ ===
 ./Detailed Project Plan.md
 ./Dor_DoD.md
-./LifeFlow/00_Administration/Decisions_Log.md
-./LifeFlow/00_Administration/Glossary.md
-./LifeFlow/00_Administration/Meeting_Notes/Template_Meeting_Note.md
-./LifeFlow/00_Administration/Project_Charter.md
-./LifeFlow/00_Administration/Team_Roles_and_Contacts.md
-./LifeFlow/01_Product/Change_Management/Change_Management_Process.md
-./LifeFlow/01_Product/Metrics/Alerts_And_Thresholds.md
-./LifeFlow/01_Product/Metrics/Dashboards_Structure.md
-./LifeFlow/01_Product/Metrics/Metrics_Plan.md
-./LifeFlow/01_Product/Product_Vision/Competitors_Comparison.md
-./LifeFlow/01_Product/Product_Vision/Personas/Persona_1.md
-./LifeFlow/01_Product/Product_Vision/Personas/Persona_2.md
-./LifeFlow/01_Product/Product_Vision/Personas/Persona_3.md
-./LifeFlow/01_Product/Product_Vision/Product_Vision.md
-./LifeFlow/01_Product/Product_Vision/Value_Proposition.md
-./LifeFlow/01_Product/Roadmap/Roadmap_Pro_Stages.md
-./LifeFlow/01_Product/Roadmap/Roadmap_Stages.md
-./LifeFlow/01_Product/User_Stories/User_Stories_All.md
-./LifeFlow/01_Product/User_Stories/User_Story_Map.md
-./LifeFlow/02_Design/Branding/Brand_Guidelines.md
-./LifeFlow/02_Design/Prototypes/Dark_Mode/Readme.md
-./LifeFlow/02_Design/Prototypes/Web_Future/Notes/Web_Adaptive_Design_Principles.md
-./LifeFlow/02_Design/Prototypes/Web_Future/Notes/Web_Navigation_Concepts.md
-./LifeFlow/02_Design/Prototypes/Web_Future/Readme.md
-./LifeFlow/02_Design/UI_Kit/Colors.md
-./LifeFlow/02_Design/UI_Kit/Components/Buttons.md
-./LifeFlow/02_Design/UI_Kit/Components/Cards.md
-./LifeFlow/02_Design/UI_Kit/Components/Chips.md
-./LifeFlow/02_Design/UI_Kit/Components/Inputs.md
-./LifeFlow/02_Design/UI_Kit/Components/Modals.md
-./LifeFlow/02_Design/UI_Kit/Components/Navigation.md
-./LifeFlow/02_Design/UI_Kit/Dark_Theme.md
-./LifeFlow/02_Design/UI_Kit/Typography.md
-./LifeFlow/03_Technical/API/AI_Planner_API.md
-./LifeFlow/03_Technical/API/Auth_API.md
-./LifeFlow/03_Technical/API/Calendar_API.md
-./LifeFlow/03_Technical/API/Finance_API.md
-./LifeFlow/03_Technical/API/Goals_API.md
-./LifeFlow/03_Technical/API/Inbox_API.md
-./LifeFlow/03_Technical/API/Tasks_API.md
-./LifeFlow/03_Technical/Architecture/AI_Architecture.md
-./LifeFlow/03_Technical/Architecture/Backend_Architecture.md
-./LifeFlow/03_Technical/Architecture/Mobile_Architecture_Flutter.md
-./LifeFlow/03_Technical/Architecture/Offline_Sync_Design.md
-./LifeFlow/03_Technical/Architecture/System_Architecture.md
-./LifeFlow/03_Technical/DevOps/CI_CD_Pipeline.md
-./LifeFlow/03_Technical/DevOps/Deployment_Guide.md
-./LifeFlow/03_Technical/DevOps/Environments.md
-./LifeFlow/03_Technical/DevOps/Monitoring_and_Logging.md
-./LifeFlow/03_Technical/Requirements/API_Requirements.md
-./LifeFlow/03_Technical/Requirements/Functional_Requirements.md
-./LifeFlow/03_Technical/Requirements/NonFunctional_Requirements.md
-./LifeFlow/03_Technical/Requirements/Technical_Specification.md
-./LifeFlow/03_Technical/Security/Authentication.md
-./LifeFlow/03_Technical/Security/Data_Protection.md
-./LifeFlow/03_Technical/Security/Threat_Model.md
-./LifeFlow/04_Development/Backlog/Bugs.md
-./LifeFlow/04_Development/Backlog/Features.md
-./LifeFlow/04_Development/Backlog/Tech_Debt.md
-./LifeFlow/04_Development/Coding_Standards/API_Usage_Guide.md
-./LifeFlow/04_Development/Coding_Standards/Architecture_Rules.md
-./LifeFlow/04_Development/Coding_Standards/Dart_Style_Guide.md
-./LifeFlow/04_Development/Coding_Standards/Flutter_Best_Practices.md
-./LifeFlow/04_Development/Sprint_Planning/Template_Sprint_Plan.md
-./LifeFlow/05_QA/Automation/CI_Test_Config.md
-./LifeFlow/05_QA/Checklists/Regression_Checklist.md
-./LifeFlow/05_QA/Checklists/Release_Checklist.md
-./LifeFlow/05_QA/Checklists/Smoke_Test_Checklist.md
-./LifeFlow/05_QA/QA_Plan.md
-./LifeFlow/06_Release/AppStore/Description.md
-./LifeFlow/06_Release/AppStore/Privacy_Policy.md
-./LifeFlow/06_Release/Beta_Testing/Beta_Feedback.md
-./LifeFlow/06_Release/Beta_Testing/Invitations.md
-./LifeFlow/06_Release/Release_Plan.md
+./LifeMerge/00_Administration/Decisions_Log.md
+./LifeMerge/00_Administration/Glossary.md
+./LifeMerge/00_Administration/Meeting_Notes/Template_Meeting_Note.md
+./LifeMerge/00_Administration/Project_Charter.md
+./LifeMerge/00_Administration/Team_Roles_and_Contacts.md
+./LifeMerge/01_Product/Change_Management/Change_Management_Process.md
+./LifeMerge/01_Product/Metrics/Alerts_And_Thresholds.md
+./LifeMerge/01_Product/Metrics/Dashboards_Structure.md
+./LifeMerge/01_Product/Metrics/Metrics_Plan.md
+./LifeMerge/01_Product/Product_Vision/Competitors_Comparison.md
+./LifeMerge/01_Product/Product_Vision/Personas/Persona_1.md
+./LifeMerge/01_Product/Product_Vision/Personas/Persona_2.md
+./LifeMerge/01_Product/Product_Vision/Personas/Persona_3.md
+./LifeMerge/01_Product/Product_Vision/Product_Vision.md
+./LifeMerge/01_Product/Product_Vision/Value_Proposition.md
+./LifeMerge/01_Product/Roadmap/Roadmap_Pro_Stages.md
+./LifeMerge/01_Product/Roadmap/Roadmap_Stages.md
+./LifeMerge/01_Product/User_Stories/User_Stories_All.md
+./LifeMerge/01_Product/User_Stories/User_Story_Map.md
+./LifeMerge/02_Design/Branding/Brand_Guidelines.md
+./LifeMerge/02_Design/Prototypes/Dark_Mode/Readme.md
+./LifeMerge/02_Design/Prototypes/Web_Future/Notes/Web_Adaptive_Design_Principles.md
+./LifeMerge/02_Design/Prototypes/Web_Future/Notes/Web_Navigation_Concepts.md
+./LifeMerge/02_Design/Prototypes/Web_Future/Readme.md
+./LifeMerge/02_Design/UI_Kit/Colors.md
+./LifeMerge/02_Design/UI_Kit/Components/Buttons.md
+./LifeMerge/02_Design/UI_Kit/Components/Cards.md
+./LifeMerge/02_Design/UI_Kit/Components/Chips.md
+./LifeMerge/02_Design/UI_Kit/Components/Inputs.md
+./LifeMerge/02_Design/UI_Kit/Components/Modals.md
+./LifeMerge/02_Design/UI_Kit/Components/Navigation.md
+./LifeMerge/02_Design/UI_Kit/Dark_Theme.md
+./LifeMerge/02_Design/UI_Kit/Typography.md
+./LifeMerge/03_Technical/API/AI_Planner_API.md
+./LifeMerge/03_Technical/API/Auth_API.md
+./LifeMerge/03_Technical/API/Calendar_API.md
+./LifeMerge/03_Technical/API/Finance_API.md
+./LifeMerge/03_Technical/API/Goals_API.md
+./LifeMerge/03_Technical/API/Inbox_API.md
+./LifeMerge/03_Technical/API/Tasks_API.md
+./LifeMerge/03_Technical/Architecture/AI_Architecture.md
+./LifeMerge/03_Technical/Architecture/Backend_Architecture.md
+./LifeMerge/03_Technical/Architecture/Mobile_Architecture_Flutter.md
+./LifeMerge/03_Technical/Architecture/Offline_Sync_Design.md
+./LifeMerge/03_Technical/Architecture/System_Architecture.md
+./LifeMerge/03_Technical/DevOps/CI_CD_Pipeline.md
+./LifeMerge/03_Technical/DevOps/Deployment_Guide.md
+./LifeMerge/03_Technical/DevOps/Environments.md
+./LifeMerge/03_Technical/DevOps/Monitoring_and_Logging.md
+./LifeMerge/03_Technical/Requirements/API_Requirements.md
+./LifeMerge/03_Technical/Requirements/Functional_Requirements.md
+./LifeMerge/03_Technical/Requirements/NonFunctional_Requirements.md
+./LifeMerge/03_Technical/Requirements/Technical_Specification.md
+./LifeMerge/03_Technical/Security/Authentication.md
+./LifeMerge/03_Technical/Security/Data_Protection.md
+./LifeMerge/03_Technical/Security/Threat_Model.md
+./LifeMerge/04_Development/Backlog/Bugs.md
+./LifeMerge/04_Development/Backlog/Features.md
+./LifeMerge/04_Development/Backlog/Tech_Debt.md
+./LifeMerge/04_Development/Coding_Standards/API_Usage_Guide.md
+./LifeMerge/04_Development/Coding_Standards/Architecture_Rules.md
+./LifeMerge/04_Development/Coding_Standards/Dart_Style_Guide.md
+./LifeMerge/04_Development/Coding_Standards/Flutter_Best_Practices.md
+./LifeMerge/04_Development/Sprint_Planning/Template_Sprint_Plan.md
+./LifeMerge/05_QA/Automation/CI_Test_Config.md
+./LifeMerge/05_QA/Checklists/Regression_Checklist.md
+./LifeMerge/05_QA/Checklists/Release_Checklist.md
+./LifeMerge/05_QA/Checklists/Smoke_Test_Checklist.md
+./LifeMerge/05_QA/QA_Plan.md
+./LifeMerge/06_Release/AppStore/Description.md
+./LifeMerge/06_Release/AppStore/Privacy_Policy.md
+./LifeMerge/06_Release/Beta_Testing/Beta_Feedback.md
+./LifeMerge/06_Release/Beta_Testing/Invitations.md
+./LifeMerge/06_Release/Release_Plan.md
 ./Metrics Plan.md
 ./TECHNICAL SPECIFICATIONS.md
 ./ДИЗАЙН-ПРОТОТИПЫ.md
@@ -245,7 +245,7 @@
 ФАЙЛ: ./Detailed Project Plan.md
 ========================================
 
-# 📆 **DETAILED PROJECT PLAN — LifeFlow**
+# 📆 **DETAILED PROJECT PLAN — LifeMerge**
 
 ## Формат:
 
@@ -965,7 +965,7 @@ UI покрывает 100% экранов MVP.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/00_Administration/Decisions_Log.md
+ФАЙЛ: ./LifeMerge/00_Administration/Decisions_Log.md
 ========================================
 
 # Template for new decisions
@@ -997,12 +997,12 @@ UI покрывает 100% экранов MVP.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/00_Administration/Glossary.md
+ФАЙЛ: ./LifeMerge/00_Administration/Glossary.md
 ========================================
 
-# Glossary – LifeFlow
+# Glossary – LifeMerge
 
-Документ содержит список терминов, используемых в проекте LifeFlow, их определения и контекст применения.
+Документ содержит список терминов, используемых в проекте LifeMerge, их определения и контекст применения.
 
 Структура:
 1. Основные термины продукта
@@ -1014,13 +1014,13 @@ UI покрывает 100% экранов MVP.
 7. Метрики и аналитика
 8. Подписки и монетизация
 9. Процессы разработки
-10. Специфические термины LifeFlow
+10. Специфические термины LifeMerge
 
 ---
 
 ## 1. Основные термины продукта
 
-**LifeFlow**  
+**LifeMerge**  
 Приложение «операционная система жизни», объединяющее цели, задачи, календарь, финансы и AI.
 
 **Сфера жизни (Life Sphere)**  
@@ -1125,7 +1125,7 @@ AI должен соблюдать правила пользователя (на
 Фреймворк кроссплатформенной разработки.
 
 **State Management**  
-Архитектурный подход для управления состоянием (в LifeFlow — Riverpod).
+Архитектурный подход для управления состоянием (в LifeMerge — Riverpod).
 
 **Offline Cache (Оффлайн-кэш)**  
 Хранение данных локально на устройстве.
@@ -1195,7 +1195,7 @@ Daily / Weekly / Monthly Active Users.
 
 ---
 
-## 10. Специфические термины LifeFlow
+## 10. Специфические термины LifeMerge
 
 **Life Intelligence Layer**  
 Аналитический уровень Pro 2.0, анализирующий влияние времени, целей и финансов друг на друга.
@@ -1220,7 +1220,7 @@ Daily / Weekly / Monthly Active Users.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/00_Administration/Meeting_Notes/Template_Meeting_Note.md
+ФАЙЛ: ./LifeMerge/00_Administration/Meeting_Notes/Template_Meeting_Note.md
 ========================================
 
 # Meeting Note — {{Название встречи}}
@@ -1262,18 +1262,18 @@ Daily / Weekly / Monthly Active Users.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/00_Administration/Project_Charter.md
+ФАЙЛ: ./LifeMerge/00_Administration/Project_Charter.md
 ========================================
 
-# Project Charter – LifeFlow
+# Project Charter – LifeMerge
 
-Официальный документ, определяющий цели, границы, принципы, ресурсы, риски и общий контекст проекта LifeFlow.
+Официальный документ, определяющий цели, границы, принципы, ресурсы, риски и общий контекст проекта LifeMerge.
 
 ---
 
 ## 1. Project Overview (Обзор проекта)
 
-**Название:** LifeFlow  
+**Название:** LifeMerge  
 **Тип проекта:** Мобильное приложение + AI-платформа  
 **Цель:** Создать операционную систему жизни, объединяющую календарь, задачи, цели и финансы в единую систему с AI-планировщиком.  
 **Продуктовое обещание:** «Живи осознанно. Управляй всем. Достигай большего.»
@@ -1289,7 +1289,7 @@ Daily / Weekly / Monthly Active Users.
 - финансовой неопределённостью (нет прогноза, анализа, привязки доходов/расходов к действиям),
 - отсутствием персонализированного помощника, учитывающего расписание и правила пользователя.
 
-LifeFlow решает эти проблемы комплексно.
+LifeMerge решает эти проблемы комплексно.
 
 ---
 
@@ -1301,7 +1301,7 @@ LifeFlow решает эти проблемы комплексно.
 
 ## 4. Vision (Видение продукта)
 
-LifeFlow станет:
+LifeMerge станет:
 - единым интерфейсом управления жизнью,
 - личным помощником по продуктивности и финансам,
 - системой, связывающей календарь, задачи, цели и финансы в один поток,
@@ -1484,10 +1484,10 @@ LifeFlow станет:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/00_Administration/Team_Roles_and_Contacts.md
+ФАЙЛ: ./LifeMerge/00_Administration/Team_Roles_and_Contacts.md
 ========================================
 
-# Team Roles & Contacts — LifeFlow
+# Team Roles & Contacts — LifeMerge
 
 Документ описывает роли команды, зоны ответственности, контакты и правила коммуникации между участниками.
 
@@ -1618,14 +1618,14 @@ LifeFlow станет:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Change_Management/Change_Management_Process.md
+ФАЙЛ: ./LifeMerge/01_Product/Change_Management/Change_Management_Process.md
 ========================================
 
-# 🔄 **CHANGE MANAGEMENT PROCESS — LifeFlow**
+# 🔄 **CHANGE MANAGEMENT PROCESS — LifeMerge**
 
 ## Цель процесса
 
-Обеспечить контролируемое, прозрачное, безопасное и предсказуемое внесение изменений в продукт LifeFlow:
+Обеспечить контролируемое, прозрачное, безопасное и предсказуемое внесение изменений в продукт LifeMerge:
 
 * минимизировать риски багов и регрессий,
 * защищать стабильность AI-логики,
@@ -1959,7 +1959,7 @@ Attachments:
 
 ---
 
-# 15. Главные принципы управления изменениями в LifeFlow
+# 15. Главные принципы управления изменениями в LifeMerge
 
 1. **Ни одно изменение не должно ухудшать качество планирования.**
 2. **AI всегда должен быть под контролем пользователя.**
@@ -1970,7 +1970,7 @@ Attachments:
 7. **Документация обновляется всегда.**
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Metrics/Alerts_And_Thresholds.md
+ФАЙЛ: ./LifeMerge/01_Product/Metrics/Alerts_And_Thresholds.md
 ========================================
 
 # Alerts & Thresholds
@@ -1984,7 +1984,7 @@ Attachments:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Metrics/Dashboards_Structure.md
+ФАЙЛ: ./LifeMerge/01_Product/Metrics/Dashboards_Structure.md
 ========================================
 
 # Структура дашбордов
@@ -2005,7 +2005,7 @@ Attachments:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Metrics/Metrics_Plan.md
+ФАЙЛ: ./LifeMerge/01_Product/Metrics/Metrics_Plan.md
 ========================================
 
 # Metrics Plan (MVP)
@@ -2035,7 +2035,7 @@ Attachments:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Product_Vision/Competitors_Comparison.md
+ФАЙЛ: ./LifeMerge/01_Product/Product_Vision/Competitors_Comparison.md
 ========================================
 
 # Сравнение с конкурентами
@@ -2049,7 +2049,7 @@ Attachments:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Product_Vision/Personas/Persona_1.md
+ФАЙЛ: ./LifeMerge/01_Product/Product_Vision/Personas/Persona_1.md
 ========================================
 
 # Персона 1: Мария, 32, продакт-менеджер
@@ -2057,11 +2057,11 @@ Attachments:
 - Живёт в Москве, работает в ИТ, совмещает работу, спорт, личные проекты.
 - Боли: много встреч, задачи разлетаются по почте/мессенджерам, нет связки с личными финансами.
 - Цели: успевать тренироваться 3 раза в неделю, закрывать квартальные OKR, копить на отпуск.
-- Как помогает LifeFlow: планирует неделю с учётом встреч, видит нагрузку по дням, отслеживает расходы и бюджет, AI предлагает фокус-задачи.
+- Как помогает LifeMerge: планирует неделю с учётом встреч, видит нагрузку по дням, отслеживает расходы и бюджет, AI предлагает фокус-задачи.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Product_Vision/Personas/Persona_2.md
+ФАЙЛ: ./LifeMerge/01_Product/Product_Vision/Personas/Persona_2.md
 ========================================
 
 # Персона 2: Алексей, 28, врач-ординатор
@@ -2069,11 +2069,11 @@ Attachments:
 - Работает по сменам, часто меняется график, нужно планировать экзамены и личные дела.
 - Боли: отсутствие единого календаря смен, забывает оплачивать счета, нет времени распределять учебные задачи.
 - Цели: пройти курс повышения, сдать экзамен, контролировать расходы.
-- Как помогает LifeFlow: синхронизирует смены в календаре, напоминает о платежах, предлагает слоты для учёбы и отдыха.
+- Как помогает LifeMerge: синхронизирует смены в календаре, напоминает о платежах, предлагает слоты для учёбы и отдыха.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Product_Vision/Personas/Persona_3.md
+ФАЙЛ: ./LifeMerge/01_Product/Product_Vision/Personas/Persona_3.md
 ========================================
 
 # Персона 3: Ирина, 35, предприниматель
@@ -2081,20 +2081,20 @@ Attachments:
 - Управляет небольшим интернет-магазином, много задач по команде, финансам и маркетингу.
 - Боли: хаос в задачах, сложность видеть кассовые разрывы, нет времени на стратегические цели.
 - Цели: увеличить выручку, запустить новые продукты, держать личный баланс работы и семьи.
-- Как помогает LifeFlow: объединяет задачи по проектам, показывает бюджет и прогноз расходов, AI помогает распределить время между бизнесом и семьёй.
+- Как помогает LifeMerge: объединяет задачи по проектам, показывает бюджет и прогноз расходов, AI помогает распределить время между бизнесом и семьёй.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Product_Vision/Product_Vision.md
+ФАЙЛ: ./LifeMerge/01_Product/Product_Vision/Product_Vision.md
 ========================================
 
-# ✅ **PRODUCT VISION — версия 1.0 для LifeFlow (рабочее название)**
+# ✅ **PRODUCT VISION — версия 1.0 для LifeMerge (рабочее название)**
 
 *Кроссплатформенное приложение для интегрированного управления временем, целями и финансами.*
 
 # **1. Назначение продукта (Purpose)**
 
-LifeFlow создаётся как **операционная система жизни для молодых профессионалов 25–40 лет**, совмещающих работу, саморазвитие, личные проекты, здоровье и финансовые цели.
+LifeMerge создаётся как **операционная система жизни для молодых профессионалов 25–40 лет**, совмещающих работу, саморазвитие, личные проекты, здоровье и финансовые цели.
 Основная ценность продукта:
 
 ### **«Живи осознанно. Управляй всем. Достигай большего.»**
@@ -2112,7 +2112,7 @@ LifeFlow создаётся как **операционная система ж�
 
 # **2. Видение (Vision Statement)**
 
-LifeFlow создаёт единое пространство, где человек понимает:
+LifeMerge создаёт единое пространство, где человек понимает:
 
 * что он делает,
 * почему он это делает,
@@ -2154,13 +2154,13 @@ LifeFlow создаёт единое пространство, где челов
 * финансовую нагрузку,
 * временные ограничения.
 
-LifeFlow решает всё это в единой системе.
+LifeMerge решает всё это в единой системе.
 
 ---
 
 # **4. Уникальное ценностное предложение (UVP)**
 
-### **LifeFlow — первый в СНГ интегрированный планировщик, который объединяет цели, время и деньги в одном месте и использует AI как продвинутого ассистента.**
+### **LifeMerge — первый в СНГ интегрированный планировщик, который объединяет цели, время и деньги в одном месте и использует AI как продвинутого ассистента.**
 
 **Ключевые отличия:**
 
@@ -2343,12 +2343,12 @@ AI — помощник, а не оператор.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Product_Vision/Value_Proposition.md
+ФАЙЛ: ./LifeMerge/01_Product/Product_Vision/Value_Proposition.md
 ========================================
 
 # Ценностное предложение
 
-LifeFlow экономит время и деньги, объединяя планирование задач, целей и финансов в одном приложении. Пользователь видит, куда уходит время и бюджет, и получает AI-подсказки, как двигаться к целям.
+LifeMerge экономит время и деньги, объединяя планирование задач, целей и финансов в одном приложении. Пользователь видит, куда уходит время и бюджет, и получает AI-подсказки, как двигаться к целям.
 
 **Ключевые выгоды:**
 - Единый поток: из inbox → задачи → календарь → цели.
@@ -2358,7 +2358,7 @@ LifeFlow экономит время и деньги, объединяя пла�
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Roadmap/Roadmap_Pro_Stages.md
+ФАЙЛ: ./LifeMerge/01_Product/Roadmap/Roadmap_Pro_Stages.md
 ========================================
 
 # Roadmap Pro (beyond MVP)
@@ -2377,10 +2377,10 @@ LifeFlow экономит время и деньги, объединяя пла�
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/Roadmap/Roadmap_Stages.md
+ФАЙЛ: ./LifeMerge/01_Product/Roadmap/Roadmap_Stages.md
 ========================================
 
-# 🚀 **ROADMAP (Этапы развития LifeFlow)**
+# 🚀 **ROADMAP (Этапы развития LifeMerge)**
 
 **MVP → Pro 1.0 → Pro 2.0 → Autonomy Mode**
 
@@ -2534,7 +2534,7 @@ LifeFlow экономит время и деньги, объединяя пла�
 
 ---
 
-## 🔗 1. Межсферная аналитика (ключевое отличие LifeFlow)
+## 🔗 1. Межсферная аналитика (ключевое отличие LifeMerge)
 
 * «Как переработки влияют на здоровье/цели/бюджет»
 * «Как часто финансовые стрессоры нарушают выполнение задач»
@@ -2659,7 +2659,7 @@ AI подстраивает:
 
 ---
 
-## 🧠 5. LifeFlow Genome (личная модель пользователя)
+## 🧠 5. LifeMerge Genome (личная модель пользователя)
 
 LLM-ориентированная модель, которая знает:
 
@@ -2696,10 +2696,10 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/User_Stories/User_Stories_All.md
+ФАЙЛ: ./LifeMerge/01_Product/User_Stories/User_Stories_All.md
 ========================================
 
-# 📘 **USER STORIES — LifeFlow MVP**
+# 📘 **USER STORIES — LifeMerge MVP**
 
 ---
 
@@ -2744,7 +2744,7 @@ LLM-ориентированная модель, которая знает:
 **US-ONB-001**
 Как новый пользователь,
 я хочу пройти онбординг с кратким объяснением ценности приложения,
-чтобы понять, чем LifeFlow может мне помочь.
+чтобы понять, чем LifeMerge может мне помочь.
 
 ---
 
@@ -3202,7 +3202,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/01_Product/User_Stories/User_Story_Map.md
+ФАЙЛ: ./LifeMerge/01_Product/User_Stories/User_Story_Map.md
 ========================================
 
 # User Story Map (high-level)
@@ -3222,12 +3222,12 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/Branding/Brand_Guidelines.md
+ФАЙЛ: ./LifeMerge/02_Design/Branding/Brand_Guidelines.md
 ========================================
 
 # Brand Guidelines
 
-- Название: **LifeFlow** (одно слово, F заглавная).
+- Название: **LifeMerge** (одно слово, F заглавная).
 - Логотип: комбинация волны/потока и чекбокса; в темной теме используем светлый логотип.
 - Цвета бренда: primary #5B8DEF, accent #FF9F1C, фон #0F1115.
 - Тональность: поддерживающая, практичная, без излишнего пафоса.
@@ -3236,7 +3236,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/Prototypes/Dark_Mode/Readme.md
+ФАЙЛ: ./LifeMerge/02_Design/Prototypes/Dark_Mode/Readme.md
 ========================================
 
 # Dark Mode – Prototypes
@@ -3251,24 +3251,24 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/Prototypes/Web_Future/Notes/Web_Adaptive_Design_Principles.md
+ФАЙЛ: ./LifeMerge/02_Design/Prototypes/Web_Future/Notes/Web_Adaptive_Design_Principles.md
 ========================================
 
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/Prototypes/Web_Future/Notes/Web_Navigation_Concepts.md
+ФАЙЛ: ./LifeMerge/02_Design/Prototypes/Web_Future/Notes/Web_Navigation_Concepts.md
 ========================================
 
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/Prototypes/Web_Future/Readme.md
+ФАЙЛ: ./LifeMerge/02_Design/Prototypes/Web_Future/Readme.md
 ========================================
 
 # Web Future – Prototypes
 
-Папка хранит концепты будущей web-версии LifeFlow:
+Папка хранит концепты будущей web-версии LifeMerge:
 - адаптивная панель,
 - двухпанельный режим,
 - календарь и финансы на широких экранах.
@@ -3280,7 +3280,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Colors.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Colors.md
 ========================================
 
 # Цвета
@@ -3299,7 +3299,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Components/Buttons.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Components/Buttons.md
 ========================================
 
 # Кнопки
@@ -3311,7 +3311,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Components/Cards.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Components/Cards.md
 ========================================
 
 # Карточки
@@ -3323,7 +3323,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Components/Chips.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Components/Chips.md
 ========================================
 
 # Чипсы
@@ -3335,7 +3335,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Components/Inputs.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Components/Inputs.md
 ========================================
 
 # Поля ввода
@@ -3348,7 +3348,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Components/Modals.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Components/Modals.md
 ========================================
 
 # Модальные окна/боттомшиты
@@ -3360,7 +3360,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Components/Navigation.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Components/Navigation.md
 ========================================
 
 # Навигация
@@ -3372,7 +3372,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Dark_Theme.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Dark_Theme.md
 ========================================
 
 # Темная тема
@@ -3387,7 +3387,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/02_Design/UI_Kit/Typography.md
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/Typography.md
 ========================================
 
 # Типографика
@@ -3400,7 +3400,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/API/AI_Planner_API.md
+ФАЙЛ: ./LifeMerge/03_Technical/API/AI_Planner_API.md
 ========================================
 
 # AI Planner API (v1)
@@ -3434,7 +3434,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/API/Auth_API.md
+ФАЙЛ: ./LifeMerge/03_Technical/API/Auth_API.md
 ========================================
 
 # Auth API (v1)
@@ -3478,7 +3478,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/API/Calendar_API.md
+ФАЙЛ: ./LifeMerge/03_Technical/API/Calendar_API.md
 ========================================
 
 # Calendar API (v1)
@@ -3487,10 +3487,10 @@ LLM-ориентированная модель, которая знает:
 - Требуется `Authorization: Bearer <token>`, заголовки `Accept-Language` и `X-Timezone` для корректного расчёта повторений и длительности.
 - Идемпотентность через `request_id` или `X-Idempotency-Key` для всех операций создания/изменения/удаления.
 - Ошибки в формате `{error: {code, message, details?}}`; при конфликте `updated_at` возвращается `409` с актуальным событием.
-- Ответы включают `created_at`, `updated_at`, `deleted`, `source` (lifeflow/google/apple) для офлайн-синхронизации и разрешения конфликтов.
+- Ответы включают `created_at`, `updated_at`, `deleted`, `source` (lifemerge/google/apple) для офлайн-синхронизации и разрешения конфликтов.
 
 ## GET /v1/calendar/events
-- Query: `from`, `to`, `cursor?`, `limit?`, `sources?` (lifeflow/google/apple)
+- Query: `from`, `to`, `cursor?`, `limit?`, `sources?` (lifemerge/google/apple)
 - Пагинация cursor-based; ответ содержит `next_cursor`.
 
 ## POST /v1/calendar/events
@@ -3513,7 +3513,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/API/Finance_API.md
+ФАЙЛ: ./LifeMerge/03_Technical/API/Finance_API.md
 ========================================
 
 # Finance API (v1)
@@ -3544,7 +3544,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/API/Goals_API.md
+ФАЙЛ: ./LifeMerge/03_Technical/API/Goals_API.md
 ========================================
 
 # Goals API (v1)
@@ -3578,7 +3578,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/API/Inbox_API.md
+ФАЙЛ: ./LifeMerge/03_Technical/API/Inbox_API.md
 ========================================
 
 # Inbox API (v1)
@@ -3612,7 +3612,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/API/Tasks_API.md
+ФАЙЛ: ./LifeMerge/03_Technical/API/Tasks_API.md
 ========================================
 
 # Tasks API (v1)
@@ -3653,7 +3653,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Architecture/AI_Architecture.md
+ФАЙЛ: ./LifeMerge/03_Technical/Architecture/AI_Architecture.md
 ========================================
 
 # AI Architecture
@@ -3681,7 +3681,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Architecture/Backend_Architecture.md
+ФАЙЛ: ./LifeMerge/03_Technical/Architecture/Backend_Architecture.md
 ========================================
 
 # Backend Architecture
@@ -3711,7 +3711,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Architecture/Mobile_Architecture_Flutter.md
+ФАЙЛ: ./LifeMerge/03_Technical/Architecture/Mobile_Architecture_Flutter.md
 ========================================
 
 # Mobile Architecture (Flutter)
@@ -3729,7 +3729,7 @@ LLM-ориентированная модель, которая знает:
 
 ## Навигация и модули
 - Отдельные модули: `auth`, `tasks`, `calendar`, `goals`, `finance`, `inbox`, `settings`.
-- Common UI: `lifeflow_theme`, `AppScaffold`, `primary_button`, `sheet_header` из UI Kit.
+- Common UI: `lifemerge_theme`, `AppScaffold`, `primary_button`, `sheet_header` из UI Kit.
 
 ## Тестирование
 - Widget тесты для списков задач, календаря, финансовых графиков.
@@ -3738,7 +3738,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Architecture/Offline_Sync_Design.md
+ФАЙЛ: ./LifeMerge/03_Technical/Architecture/Offline_Sync_Design.md
 ========================================
 
 # Offline Sync Design
@@ -3767,7 +3767,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Architecture/System_Architecture.md
+ФАЙЛ: ./LifeMerge/03_Technical/Architecture/System_Architecture.md
 ========================================
 
 # System Architecture
@@ -3792,7 +3792,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/DevOps/CI_CD_Pipeline.md
+ФАЙЛ: ./LifeMerge/03_Technical/DevOps/CI_CD_Pipeline.md
 ========================================
 
 # CI/CD Pipeline
@@ -3818,7 +3818,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/DevOps/Deployment_Guide.md
+ФАЙЛ: ./LifeMerge/03_Technical/DevOps/Deployment_Guide.md
 ========================================
 
 # Deployment Guide
@@ -3830,7 +3830,7 @@ LLM-ориентированная модель, которая знает:
 
 ## Backend/AI
 1. Собрать образы `backend:<tag>` и `ai-service:<tag>`.
-2. Применить Helm-чарты: `helm upgrade --install lifeflow-backend charts/backend -f values/<env>.yaml`.
+2. Применить Helm-чарты: `helm upgrade --install lifemerge-backend charts/backend -f values/<env>.yaml`.
 3. Выполнить миграции: `alembic upgrade head` или `prisma migrate deploy` (в зависимости от стека).
 4. Проверить readiness/liveness, метрики, отсутствие 5xx в логах.
 
@@ -3845,16 +3845,16 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/DevOps/Environments.md
+ФАЙЛ: ./LifeMerge/03_Technical/DevOps/Environments.md
 ========================================
 
 # Environments
 
 | Среда | Назначение | URL/API | Особенности |
 |-------|------------|---------|-------------|
-| **Dev** | Быстрая разработка | `https://api.dev.lifeflow` | Авто-сборки из `develop`, моковые интеграции, открытые тест-аккаунты |
-| **Stage** | Приёмка/QA | `https://api.stage.lifeflow` | Данные приближены к прод, feature flags по умолчанию включены, нагрузочные тесты |
-| **Prod** | Пользовательская | `https://api.lifeflow.app` | Полные метрики/алёрты, белые списки IP для админки |
+| **Dev** | Быстрая разработка | `https://api.dev.lifemerge` | Авто-сборки из `develop`, моковые интеграции, открытые тест-аккаунты |
+| **Stage** | Приёмка/QA | `https://api.stage.lifemerge` | Данные приближены к прод, feature flags по умолчанию включены, нагрузочные тесты |
+| **Prod** | Пользовательская | `https://api.lifemerge.app` | Полные метрики/алёрты, белые списки IP для админки |
 
 ## Управление конфигурацией
 - Секреты в Vault/KMS, подключение через переменные окружения.
@@ -3863,7 +3863,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/DevOps/Monitoring_and_Logging.md
+ФАЙЛ: ./LifeMerge/03_Technical/DevOps/Monitoring_and_Logging.md
 ========================================
 
 # Monitoring & Logging
@@ -3890,7 +3890,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Requirements/API_Requirements.md
+ФАЙЛ: ./LifeMerge/03_Technical/Requirements/API_Requirements.md
 ========================================
 
 # Требования к API
@@ -3905,7 +3905,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Requirements/Functional_Requirements.md
+ФАЙЛ: ./LifeMerge/03_Technical/Requirements/Functional_Requirements.md
 ========================================
 
 # Функциональные требования (MVP)
@@ -3922,7 +3922,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Requirements/NonFunctional_Requirements.md
+ФАЙЛ: ./LifeMerge/03_Technical/Requirements/NonFunctional_Requirements.md
 ========================================
 
 # Нефункциональные требования (NFR)
@@ -3949,7 +3949,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Requirements/Technical_Specification.md
+ФАЙЛ: ./LifeMerge/03_Technical/Requirements/Technical_Specification.md
 ========================================
 
 # Technical Specification (кратко)
@@ -3963,7 +3963,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Security/Authentication.md
+ФАЙЛ: ./LifeMerge/03_Technical/Security/Authentication.md
 ========================================
 
 # Authentication & Authorization
@@ -3995,7 +3995,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Security/Data_Protection.md
+ФАЙЛ: ./LifeMerge/03_Technical/Security/Data_Protection.md
 ========================================
 
 # Data Protection
@@ -4022,10 +4022,10 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/03_Technical/Security/Threat_Model.md
+ФАЙЛ: ./LifeMerge/03_Technical/Security/Threat_Model.md
 ========================================
 
-# Threat Model (LifeFlow)
+# Threat Model (LifeMerge)
 
 ## Акторы
 - **Злоумышленник без учётки:** пытается получить доступ к API, подделать трафик, подменить приложение.
@@ -4055,7 +4055,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/04_Development/Backlog/Bugs.md
+ФАЙЛ: ./LifeMerge/04_Development/Backlog/Bugs.md
 ========================================
 
 # Known bugs
@@ -4070,7 +4070,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/04_Development/Backlog/Features.md
+ФАЙЛ: ./LifeMerge/04_Development/Backlog/Features.md
 ========================================
 
 # Feature backlog
@@ -4089,7 +4089,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/04_Development/Backlog/Tech_Debt.md
+ФАЙЛ: ./LifeMerge/04_Development/Backlog/Tech_Debt.md
 ========================================
 
 # Tech Debt backlog
@@ -4104,7 +4104,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/04_Development/Coding_Standards/API_Usage_Guide.md
+ФАЙЛ: ./LifeMerge/04_Development/Coding_Standards/API_Usage_Guide.md
 ========================================
 
 # Руководство по использованию API
@@ -4138,10 +4138,10 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/04_Development/Coding_Standards/Architecture_Rules.md
+ФАЙЛ: ./LifeMerge/04_Development/Coding_Standards/Architecture_Rules.md
 ========================================
 
-# Архитектурные правила LifeFlow
+# Архитектурные правила LifeMerge
 
 Документ обобщает договорённости из TECHNICAL SPECIFICATIONS и ТЗ для реализации Flutter-клиента, backend и AI-сервисов.
 
@@ -4172,10 +4172,10 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/04_Development/Coding_Standards/Dart_Style_Guide.md
+ФАЙЛ: ./LifeMerge/04_Development/Coding_Standards/Dart_Style_Guide.md
 ========================================
 
-# Dart Style Guide (LifeFlow)
+# Dart Style Guide (LifeMerge)
 
 - Следуем официальному `dart style`; используем `dart format` без переопределения ширины строки.
 - Именование: классы/enum в `PascalCase`, методы/поля/переменные в `camelCase`, константы в `lowerCamel` с `k` не используем.
@@ -4183,13 +4183,13 @@ LLM-ориентированная модель, которая знает:
 - Избегаем `dynamic` и `!`; используем null-safety, опциональные поля помечаем `?`.
 - Коллекции неизменяемые по умолчанию (`UnmodifiableListView`, `const` widgets) когда это безопасно.
 - Обработка ошибок через `Either<Result, Failure>` или `Result<T>` вместо выбрасывания исключений в бизнес-логике.
-- Импортируем через `package:lifeflow/...`; относительные импорты только внутри модуля.
+- Импортируем через `package:lifemerge/...`; относительные импорты только внутри модуля.
 - Файлы экранов/виджетов именуем по компоненту: `tasks_list_page.dart`, `task_tile.dart`, `goal_progress_chart.dart`.
 - Не добавляем `try/catch` вокруг импортов; используется автоматический анализ зависимостей pub.
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/04_Development/Coding_Standards/Flutter_Best_Practices.md
+ФАЙЛ: ./LifeMerge/04_Development/Coding_Standards/Flutter_Best_Practices.md
 ========================================
 
 # Flutter: лучшие практики
@@ -4221,7 +4221,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/04_Development/Sprint_Planning/Template_Sprint_Plan.md
+ФАЙЛ: ./LifeMerge/04_Development/Sprint_Planning/Template_Sprint_Plan.md
 ========================================
 
 # Sprint {{номер}} – Planning
@@ -4263,7 +4263,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/05_QA/Automation/CI_Test_Config.md
+ФАЙЛ: ./LifeMerge/05_QA/Automation/CI_Test_Config.md
 ========================================
 
 # CI Test Config
@@ -4276,7 +4276,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/05_QA/Checklists/Regression_Checklist.md
+ФАЙЛ: ./LifeMerge/05_QA/Checklists/Regression_Checklist.md
 ========================================
 
 # Regression Checklist (основные блоки)
@@ -4310,7 +4310,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/05_QA/Checklists/Release_Checklist.md
+ФАЙЛ: ./LifeMerge/05_QA/Checklists/Release_Checklist.md
 ========================================
 
 # Release Checklist
@@ -4325,7 +4325,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/05_QA/Checklists/Smoke_Test_Checklist.md
+ФАЙЛ: ./LifeMerge/05_QA/Checklists/Smoke_Test_Checklist.md
 ========================================
 
 # Smoke Test Checklist
@@ -4340,10 +4340,10 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/05_QA/QA_Plan.md
+ФАЙЛ: ./LifeMerge/05_QA/QA_Plan.md
 ========================================
 
-# 🧪 QA PLAN — LifeFlow (MVP, Pro 1.0+ Ready)
+# 🧪 QA PLAN — LifeMerge (MVP, Pro 1.0+ Ready)
 
 ## 1. Цели QA
 
@@ -4718,12 +4718,12 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/06_Release/AppStore/Description.md
+ФАЙЛ: ./LifeMerge/06_Release/AppStore/Description.md
 ========================================
 
 # App Store / Google Play Description (draft)
 
-**LifeFlow — единое приложение для времени, целей и финансов.**
+**LifeMerge — единое приложение для времени, целей и финансов.**
 
 - Планируйте день и неделю в одном календаре.
 - Управляйте задачами и целями, отслеживайте прогресс.
@@ -4731,16 +4731,16 @@ LLM-ориентированная модель, которая знает:
 - AI-помощник предложит расписание и подскажет приоритеты.
 - Работает офлайн, синхронизируется между устройствами.
 
-**Почему LifeFlow?**
+**Почему LifeMerge?**
 - Всё в одном: календарь, задачи, цели, финансы.
 - Лёгкий старт: готовые шаблоны и умные подсказки.
 - Для людей из СНГ: локализация, рубли/тенге/гривны, напоминания в нужном часовом поясе.
 
-Поддержка: support@lifeflow.app
+Поддержка: support@lifemerge.app
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/06_Release/AppStore/Privacy_Policy.md
+ФАЙЛ: ./LifeMerge/06_Release/AppStore/Privacy_Policy.md
 ========================================
 
 # Privacy Policy (кратко)
@@ -4750,11 +4750,11 @@ LLM-ориентированная модель, которая знает:
 - Не продаём данные третьим лицам; передача только обработчикам (хостинг, аналитика) по договорам.
 - Данные хранятся на защищённых серверах, резервируются; пользователи могут запросить выгрузку или удаление аккаунта.
 - Cookies/токены применяются для аутентификации и сессий; пуш-токены хранятся отдельно.
-- Контакты: privacy@lifeflow.app
+- Контакты: privacy@lifemerge.app
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/06_Release/Beta_Testing/Beta_Feedback.md
+ФАЙЛ: ./LifeMerge/06_Release/Beta_Testing/Beta_Feedback.md
 ========================================
 
 # Beta Feedback Process
@@ -4775,7 +4775,7 @@ LLM-ориентированная модель, которая знает:
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/06_Release/Beta_Testing/Invitations.md
+ФАЙЛ: ./LifeMerge/06_Release/Beta_Testing/Invitations.md
 ========================================
 
 # Beta Testing Invitations
@@ -4791,16 +4791,16 @@ LLM-ориентированная модель, которая знает:
 
 ## Сообщение-приглашение (шаблон)
 ```
-Привет! Запускаем бету LifeFlow — планировщик времени, целей и финансов.
+Привет! Запускаем бету LifeMerge — планировщик времени, целей и финансов.
 1) Установи приложение по ссылке <TestFlight/Google Play>.
 2) Пройди онбординг и создай минимум 3 задачи и 1 цель.
 3) Поделись фидбеком в форме: <ссылка>.
-Спасибо! Команда LifeFlow
+Спасибо! Команда LifeMerge
 ```
 
 
 ========================================
-ФАЙЛ: ./LifeFlow/06_Release/Release_Plan.md
+ФАЙЛ: ./LifeMerge/06_Release/Release_Plan.md
 ========================================
 
 # Release Plan
@@ -4825,7 +4825,7 @@ LLM-ориентированная модель, которая знает:
 ФАЙЛ: ./Metrics Plan.md
 ========================================
 
-# 📊 **METRICS PLAN — LifeFlow**
+# 📊 **METRICS PLAN — LifeMerge**
 
 ## Структура документа:
 
@@ -4846,7 +4846,7 @@ LLM-ориентированная модель, которая знает:
 
 ---
 
-# 1. Принципы метрик LifeFlow
+# 1. Принципы метрик LifeMerge
 
 1. Метрики должны **измерять поведение жизни пользователя**, а не абстрактные клики.
 2. Система метрик отражает трио:
@@ -4932,7 +4932,7 @@ NSM = (Запланированные часы за неделю + выполн�
 
 # 4. Метрики AI
 
-AI — ключевая зона LifeFlow. Метрики делятся на 4 слоя: adoption → usage → accuracy → satisfaction.
+AI — ключевая зона LifeMerge. Метрики делятся на 4 слоя: adoption → usage → accuracy → satisfaction.
 
 ## 4.1. Adoption
 
@@ -5026,7 +5026,7 @@ AI — ключевая зона LifeFlow. Метрики делятся на 4 
 
 # 7. Метрики активации (AHA-moments)
 
-### AHA-moments LifeFlow:
+### AHA-moments LifeMerge:
 
 1. Пользователь заполнил календарь хотя бы на 24 часа вперёд
 2. Создал цель + привязал к ней ≥ 3 задачи
@@ -5214,7 +5214,7 @@ AI — ключевая зона LifeFlow. Метрики делятся на 4 
 ФАЙЛ: ./TECHNICAL SPECIFICATIONS.md
 ========================================
 
-# 🧩 **TECHNICAL SPECIFICATIONS — LifeFlow**
+# 🧩 **TECHNICAL SPECIFICATIONS — LifeMerge**
 
 ---
 
@@ -5222,7 +5222,7 @@ AI — ключевая зона LifeFlow. Метрики делятся на 4 
 
 ## 1.1. Общая архитектура
 
-LifeFlow — это **клиент-серверная** система:
+LifeMerge — это **клиент-серверная** система:
 
 * **Frontend:** Flutter-приложение (iOS + Android)
 * **Backend API:** REST / JSON
@@ -5743,7 +5743,7 @@ v2 появится при изменении структур данных.
 
 # 🎨 **ДИЗАЙН-ПРОТОТИПЫ / UI-KIT (ОПИСАНИЯ + СПЕЦИФИКАЦИИ)**
 
-*LifeFlow — минималистичная Life OS с премиальной эстетикой.*
+*LifeMerge — минималистичная Life OS с премиальной эстетикой.*
 
 ---
 
@@ -6185,7 +6185,7 @@ TabView:
 
 # 🧾 Техническое задание (ТЗ)
 
-**Приложение LifeFlow (рабочее название)**
+**Приложение LifeMerge (рабочее название)**
 Кросс-платформенное мобильное приложение (Flutter) для Android и iOS
 
 ---
@@ -6194,7 +6194,7 @@ TabView:
 
 ### 1.1. Назначение системы
 
-LifeFlow — кросс-платформенное мобильное приложение для **управления временем, целями и финансами** с элементами GTD и AI-помощником. Цель — дать пользователю из СНГ единую систему планирования жизни: календарь, задачи, цели, финансовые потоки и аналитику.
+LifeMerge — кросс-платформенное мобильное приложение для **управления временем, целями и финансами** с элементами GTD и AI-помощником. Цель — дать пользователю из СНГ единую систему планирования жизни: календарь, задачи, цели, финансовые потоки и аналитику.
 
 ### 1.2. Платформы
 
