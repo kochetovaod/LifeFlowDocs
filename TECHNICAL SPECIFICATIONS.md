@@ -1,4 +1,4 @@
-# 🧩 **TECHNICAL SPECIFICATIONS — LifeFlow**
+# 🧩 **TECHNICAL SPECIFICATIONS — LifeMerge**
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## 1.1. Общая архитектура
 
-LifeFlow — это **клиент-серверная** система:
+LifeMerge — это **клиент-серверная** система:
 
 * **Frontend:** Flutter-приложение (iOS + Android)
 * **Backend API:** REST / JSON
