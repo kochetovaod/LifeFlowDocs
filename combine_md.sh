@@ -10,10 +10,6 @@ echo "=== ПОЛНАЯ СТРУКТУРА ПАПКИ ===" > "$output_file"
 tree . >> "$output_file" 2>/dev/null || find . -type f | sort >> "$output_file"
 
 echo "" >> "$output_file"
-echo "=== MARKDOWN ФАЙЛЫ ===" >> "$output_file"
-find . -type f -name "*.md" | sort >> "$output_file"
-
-echo "" >> "$output_file"
 echo "=== СОДЕРЖАНИЕ ФАЙЛОВ ===" >> "$output_file"
 
 # 2. Содержимое файлов

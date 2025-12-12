@@ -8,6 +8,11 @@
 │   │   ├── Decisions_Log.md
 │   │   ├── Glossary.md
 │   │   ├── Meeting_Notes
+│   │   │   ├── MEETING NOTE — Strategic MVP Planning 
+│   │   │   │   ├── Mobile Sprint 01 — Technical Breakdown (Jira-ready).md
+│   │   │   │   ├──  Sprint 01–02.md
+│   │   │   │   ├── Sprint Do R Do D.md
+│   │   │   │   └── Sprint Planning.md
 │   │   │   └── Template_Meeting_Note.md
 │   │   ├── Project_Charter.md
 │   │   └── Team_Roles_and_Contacts.md
@@ -81,8 +86,18 @@
 │   │       ├── Dark_Theme.md
 │   │       ├── Design_Tokens.json
 │   │       ├── Typography.md
-│   │       └── UI_Kit_v1.0.md
+│   │       ├── UI_Kit_v1.0.md
+│   │       └── UI Kit & Wireframes figma.md
 │   ├── 03_Technical
+│   │   ├── AI
+│   │   │   └── JSON Schema
+│   │   │       ├── calendar_min.json
+│   │   │       ├── goals_min.json
+│   │   │       ├── metadata.json
+│   │   │       ├── plan_week_request.json
+│   │   │       ├── plan_week_response.json
+│   │   │       ├── preferences.json
+│   │   │       └── tasks_min.json
 │   │   ├── API
 │   │   │   ├── AI_Planner_API.md
 │   │   │   ├── Auth_API.md
@@ -168,97 +183,7 @@
 ├── документация_полная.txt
 └── Техническое задание.md
 
-58 directories, 110 files
-
-=== MARKDOWN ФАЙЛЫ ===
-./Detailed Project Plan.md
-./Dor_DoD.md
-./LifeMerge/00_Administration/Decisions_Log.md
-./LifeMerge/00_Administration/Glossary.md
-./LifeMerge/00_Administration/Meeting_Notes/Template_Meeting_Note.md
-./LifeMerge/00_Administration/Project_Charter.md
-./LifeMerge/00_Administration/Team_Roles_and_Contacts.md
-./LifeMerge/01_Product/Change_Management/Change_Management_Process.md
-./LifeMerge/01_Product/Metrics/Alerts_And_Thresholds.md
-./LifeMerge/01_Product/Metrics/Dashboards_Structure.md
-./LifeMerge/01_Product/Metrics/Events_Specification.md
-./LifeMerge/01_Product/Metrics/Metrics_Plan.md
-./LifeMerge/01_Product/MVP_Scope_v1.md
-./LifeMerge/01_Product/Product_Vision/Competitors_Comparison.md
-./LifeMerge/01_Product/Product_Vision/Personas/Persona_1.md
-./LifeMerge/01_Product/Product_Vision/Personas/Persona_2.md
-./LifeMerge/01_Product/Product_Vision/Personas/Persona_3.md
-./LifeMerge/01_Product/Product_Vision/Product_Vision.md
-./LifeMerge/01_Product/Product_Vision/Value_Proposition.md
-./LifeMerge/01_Product/Roadmap/Roadmap_Pro_Stages.md
-./LifeMerge/01_Product/Roadmap/Roadmap_Stages.md
-./LifeMerge/01_Product/User_Stories/User_Stories_All.md
-./LifeMerge/01_Product/User_Stories/User_Story_Map.md
-./LifeMerge/02_Design/Branding/Brand_Guidelines.md
-./LifeMerge/02_Design/Interaction_Guidelines.md
-./LifeMerge/02_Design/Prototypes/Dark_Mode/Readme.md
-./LifeMerge/02_Design/Prototypes/Notes/MVP_Wireframes.md
-./LifeMerge/02_Design/Prototypes/Web_Future/Notes/Web_Adaptive_Design_Principles.md
-./LifeMerge/02_Design/Prototypes/Web_Future/Notes/Web_Navigation_Concepts.md
-./LifeMerge/02_Design/Prototypes/Web_Future/Readme.md
-./LifeMerge/02_Design/UI_Kit/Colors.md
-./LifeMerge/02_Design/UI_Kit/Components/Buttons.md
-./LifeMerge/02_Design/UI_Kit/Components/Cards.md
-./LifeMerge/02_Design/UI_Kit/Components/Chips.md
-./LifeMerge/02_Design/UI_Kit/Components/Inputs.md
-./LifeMerge/02_Design/UI_Kit/Components/Modals.md
-./LifeMerge/02_Design/UI_Kit/Components/Navigation.md
-./LifeMerge/02_Design/UI_Kit/Dark_Theme.md
-./LifeMerge/02_Design/UI_Kit/Typography.md
-./LifeMerge/02_Design/UI_Kit/UI_Kit_v1.0.md
-./LifeMerge/03_Technical/API/AI_Planner_API.md
-./LifeMerge/03_Technical/API/Auth_API.md
-./LifeMerge/03_Technical/API/Calendar_API.md
-./LifeMerge/03_Technical/API/Finance_API.md
-./LifeMerge/03_Technical/API/Goals_API.md
-./LifeMerge/03_Technical/API/Inbox_API.md
-./LifeMerge/03_Technical/API/Tasks_API.md
-./LifeMerge/03_Technical/Architecture/AI_Architecture.md
-./LifeMerge/03_Technical/Architecture/Backend_Architecture.md
-./LifeMerge/03_Technical/Architecture/Mobile_Architecture_Flutter.md
-./LifeMerge/03_Technical/Architecture/Offline_Sync_Design.md
-./LifeMerge/03_Technical/Architecture/Personalization_ML_Spec.md
-./LifeMerge/03_Technical/Architecture/System_Architecture.md
-./LifeMerge/03_Technical/DevOps/CI_CD_Pipeline.md
-./LifeMerge/03_Technical/DevOps/Deployment_Guide.md
-./LifeMerge/03_Technical/DevOps/Deployment_Plan.md
-./LifeMerge/03_Technical/DevOps/Environments.md
-./LifeMerge/03_Technical/DevOps/Infrastructure_Spec.md
-./LifeMerge/03_Technical/DevOps/Monitoring_and_Logging.md
-./LifeMerge/03_Technical/Requirements/API_Requirements.md
-./LifeMerge/03_Technical/Requirements/Functional_Requirements.md
-./LifeMerge/03_Technical/Requirements/NonFunctional_Requirements.md
-./LifeMerge/03_Technical/Requirements/Technical_Specification.md
-./LifeMerge/03_Technical/Security/Authentication.md
-./LifeMerge/03_Technical/Security/Data_Protection.md
-./LifeMerge/03_Technical/Security/Threat_Model.md
-./LifeMerge/04_Development/Backlog/Bugs.md
-./LifeMerge/04_Development/Backlog/Features.md
-./LifeMerge/04_Development/Backlog/Tech_Debt.md
-./LifeMerge/04_Development/Coding_Standards/API_Usage_Guide.md
-./LifeMerge/04_Development/Coding_Standards/Architecture_Rules.md
-./LifeMerge/04_Development/Coding_Standards/Dart_Style_Guide.md
-./LifeMerge/04_Development/Coding_Standards/Flutter_Best_Practices.md
-./LifeMerge/04_Development/Sprint_Planning/Template_Sprint_Plan.md
-./LifeMerge/05_QA/Automation/CI_Test_Config.md
-./LifeMerge/05_QA/Checklists/Regression_Checklist.md
-./LifeMerge/05_QA/Checklists/Release_Checklist.md
-./LifeMerge/05_QA/Checklists/Smoke_Test_Checklist.md
-./LifeMerge/05_QA/QA_Plan.md
-./LifeMerge/06_Release/AppStore/Description.md
-./LifeMerge/06_Release/AppStore/Privacy_Policy.md
-./LifeMerge/06_Release/Beta_Testing/Beta_Feedback.md
-./LifeMerge/06_Release/Beta_Testing/Invitations.md
-./LifeMerge/06_Release/Release_Plan.md
-./Metrics Plan.md
-./TECHNICAL SPECIFICATIONS.md
-./ДИЗАЙН-ПРОТОТИПЫ.md
-./Техническое задание.md
+61 directories, 122 files
 
 === СОДЕРЖАНИЕ ФАЙЛОВ ===
 ========================================
@@ -1319,6 +1244,574 @@ Daily / Weekly / Monthly Active Users.
 | 2025-01-XX | … | Первая версия |
 | 2025-01-XX | … | Добавлены термины AI и Analytics |
 
+
+
+========================================
+ФАЙЛ: ./LifeMerge/00_Administration/Meeting_Notes/MEETING NOTE — Strategic MVP Planning /Mobile Sprint 01 — Technical Breakdown (Jira-ready).md
+========================================
+
+# 📱 Mobile — Sprint 01 (Foundation + A1)
+
+## EPIC M0 — Core App Skeleton & Infrastructure
+
+### M0.1 Finalize App Skeleton
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Зафиксировать структуру слоёв: `presentation / application / domain / data / core`.
+* Финализировать DI-контейнер (scope per feature).
+* App bootstrap (env, flavors, error handling root).
+* AppRouter + Shell (Auth / Calendar / Tasks / Inbox / Settings / Pro).
+
+**DoD:**
+
+* Проект собирается.
+* Можно подключать фичи без правок core.
+* Нет feature-to-feature зависимостей.
+
+---
+
+### M0.2 Core Storage (Secure + KV)
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* `SecureStorage` (tokens, sensitive data).
+* `KeyValueStorage` (flags, onboarding state, prefs).
+* Чистые интерфейсы + реализации.
+
+**Tech notes:**
+
+* Без прямых зависимостей в features.
+* Async-safe, ready для offline-first.
+
+**DoD:**
+
+* Используется в Auth и Onboarding.
+* Покрыт базовыми unit-тестами.
+
+---
+
+## EPIC M1 — Theme & Design System
+
+### M1.1 AppTheme & Tokens
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Light/Dark theme.
+* Color tokens (semantic).
+* Typography (H1–Caption).
+* Spacing, radii.
+
+**Tech notes:**
+
+* Naming = UI Kit v1.0.
+* Ни одного “raw color” в UI.
+
+**DoD:**
+
+* Theme используется по всему приложению.
+* Токены — единственный источник правды.
+
+---
+
+### M1.2 Base UI Components
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Button (Primary / Secondary / Tertiary + loading/disabled).
+* TextField (all states).
+* AppBar.
+* BottomNavigation.
+* ModalSheet / Dialog.
+* Loader / Skeleton.
+
+**DoD:**
+
+* Компоненты используются в Auth/Tasks/Calendar.
+* Нет дублирующихся UI-реализаций.
+
+---
+
+## EPIC M2 — Navigation
+
+### M2.1 App Navigation Shell
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Auth flow routes.
+* Main shell (tabs).
+* Guarded routes по AuthState.
+* Placeholder routes для Sprint 02.
+
+**DoD:**
+
+* Навигация соответствует wireframes.
+* После онбординга → Calendar Day.
+
+---
+
+## EPIC M3 — Auth & Onboarding (A1 critical)
+
+### M3.1 Auth Domain
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Entities: User, AuthState.
+* UseCases: signIn, signUp, refresh, logout, restoreSession.
+* Repository interfaces.
+
+**DoD:**
+
+* Domain не зависит от Flutter/UI.
+* Готово к mock/real data source.
+
+---
+
+### M3.2 Auth UI & State
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Login / Register / Recovery.
+* Form validation.
+* Error states.
+* Loading states.
+
+**Tech notes:**
+
+* Riverpod.
+* Single source of truth для AuthState.
+
+**DoD:**
+
+* Happy path A1 проходит ≤5 минут.
+* Ошибки API корректно отображаются.
+
+---
+
+### M3.3 Onboarding Flow
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Onboarding screens.
+* Persist onboarding completion.
+* Transition → Main Shell.
+
+**Analytics:**
+
+* `Onboarding_Complete`.
+
+**DoD:**
+
+* Логируется один раз.
+* Повторный запуск → onboarding не показывается.
+
+---
+
+## EPIC M4 — Tasks Core (CRUD)
+
+### M4.1 Tasks Domain
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Task entity.
+* Status lifecycle.
+* CRUD use-cases.
+
+**Constraints:**
+
+* Без goals.
+* Без recurrence.
+
+---
+
+### M4.2 Tasks UI
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Task List.
+* Task Create/Edit.
+* Complete task.
+
+**Analytics:**
+
+* `Task_Created`
+* `Task_Completed`.
+
+**DoD:**
+
+* Работает offline (через queue).
+* UI соответствует design states.
+
+---
+
+## EPIC M5 — Calendar Day (Basic)
+
+### M5.1 Calendar Day View
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Day timeline.
+* Event list.
+* Empty/loading/offline states.
+
+**Constraints:**
+
+* No drag&drop.
+* No recurrence.
+
+---
+
+### M5.2 Event Create (Basic)
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Create event.
+* Simple start/end.
+* Save to backend / queue.
+
+**Analytics:**
+
+* `Reached_Calendar`.
+
+---
+
+## EPIC M6 — Offline Queue v1
+
+### M6.1 Offline Operations Queue
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* Queue for Tasks + Events.
+* request_id + updated_at.
+* Retry & conflict-safe.
+
+**Tech notes:**
+
+* Единая реализация.
+* Прозрачна для features.
+
+**DoD:**
+
+* Можно создавать задачи/ивенты offline.
+* Синк без дублей.
+
+---
+
+## EPIC M7 — Analytics (A1)
+
+### M7.1 Analytics Infrastructure
+
+**Type:** Story
+**Priority:** P0
+
+**Scope:**
+
+* AnalyticsService abstraction.
+* Firebase + Amplitude.
+* Debug logging.
+
+---
+
+### M7.2 A1 Events
+
+**Type:** Story
+**Priority:** P0
+
+**Events:**
+
+* User_SignUp
+* Onboarding_Complete
+* Task_Created
+* Reached_Calendar
+
+**DoD:**
+
+* События не дублируются.
+* Проверены на QA-стенде.
+
+---
+
+# ⏱️ Ownership
+
+* **Даниил:** архитектура, M0, M1, M6, аналитика, ревью.
+* **Дмитрий:** реализация M2–M5 под контролем.
+
+
+========================================
+ФАЙЛ: ./LifeMerge/00_Administration/Meeting_Notes/MEETING NOTE — Strategic MVP Planning / Sprint 01–02.md
+========================================
+
+**MEETING NOTE — Strategic MVP Planning / Sprint 01–02**
+
+**Проект:** LifeMerge
+**Дата:** 12.12.2025
+**Тип встречи:** Стратегическое планирование MVP (CEO-level)
+**Модератор:** Олег (CEO / Founder)
+
+**Участники:**
+
+* Олег — CEO / Founder
+* Антон — Product Manager
+* Виктор — Product Analyst
+* Борис — Lead UI/UX Designer
+* Григорий — Interaction Designer
+* Даниил — Tech Lead Mobile (Flutter)
+* Дмитрий — Mobile Developer
+* Егор — Backend Lead
+* Евгений — Backend Developer
+* Игорь — AI Lead
+* Константин — AI Engineer
+* Леонид — QA Lead
+* Марк — QA Engineer
+
+---
+
+### 1. Цель встречи
+
+1. Зафиксировать P1-ядро MVP согласно Vision / Roadmap / Charter.
+2. Уточнить разделение функционала по Sprint 01 и Sprint 02.
+3. Определить технические ограничения и риск-области (TZ, offline, AI Planner).
+4. Раздать конкретные Action Items командам с ответственными.
+
+---
+
+### 2. Краткий итог обсуждения
+
+* Подтвержден P1-scope MVP: Auth/Onboarding, Calendar Core (Day), Tasks Core, Goals (базово), Inbox, AI Planner v1 (Pro-only), Notifications, Offline Sync, Core Architecture.
+* Уточнено разделение спринтов:
+
+  * Sprint 01 — фундамент + A1 (Auth/Onboarding, Tasks CRUD без целей, Calendar Day без drag&drop, Inbox MVP, Notifications infra, аналитика для A1).
+  * Sprint 02 — A2 + связки + AI Planner v1 skeleton (Goals, Task→Calendar, Calendar drag&drop, AI Planner v1, Goal Progress, Calendar Conflicts basic, Digest push).
+* Зафиксированы ограничения MVP: 1 задача = 1 слот в календаре; простой рабочий график; AI Planner v1 без продвинутой персонализации.
+* Подтверждена готовность Design (UI Kit v1.0, P1 wireframes, страница Ready for Dev).
+* Подтверждена готовность Mobile skeleton к старту фич (слои, DI, навигация shell, storage-контракты).
+* Backend подтвердил стабильность Auth/Tasks/Calendar API и требует жёсткой дисциплины по TZ/updated_at/request_id.
+* AI определил минимальный контракт Planner v1 (Tasks, Calendar, Preferences, Goals, Metadata).
+* QA сформулировал требования к качеству базовых модулей и базовый набор smoke-тестов для Sprint 01.
+
+---
+
+## 3. Decisions (Решения)
+
+| #   | Решение                                                                                                                                                       | Обоснование                                                                                                   | Owner внедрения                |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| D1  | Утверждено P1-ядро MVP: Auth/Onboarding, Calendar Day, Tasks, Goals (базово), Inbox, AI Planner v1 (Pro-only), Notifications, Offline Sync, Core Architecture | Соответствие Product Vision, Roadmap и Metrics Plan; ядро, на котором строится A1/A2 и дальнейшая монетизация | Олег / Антон                   |
+| D2  | Разделение спринтов: Sprint 01 = фундамент + A1, Sprint 02 = A2 + AI Planner skeleton                                                                         | Снижение риска расползания скопа, фокус на быстрой активации и устойчивом фундаменте                          | Олег / Антон                   |
+| D3  | В Sprint 01 реализуем Calendar Day без drag&drop и сложных recurrence                                                                                         | Ускорение time-to-value, уменьшение технической сложности и рисков миграций на старте                         | Антон / Даниил / Егор          |
+| D4  | Вводим MVP-ограничение: 1 задача = 1 слот в календаре (no many-to-many)                                                                                       | Снижение сложности Calendar/Tasks/AI, уменьшение риска сложных миграций по связям                             | Антон / Егор                   |
+| D5  | Рабочие графики в MVP реализуются в простом формате (без сложных паттернов и истории смен)                                                                    | Избежать высокой сложности в Calendar и Data Model на MVP-этапе                                               | Антон / Егор                   |
+| D6  | AI Planner v1 на MVP работает как rule-based+LLM skeleton с минимальным контрактом (Tasks, Calendar, Preferences, Goals)                                      | Быстрый запуск Pro-ценности, минимизация рисков ML и сложности персонализации на старте                       | Олег / Игорь                   |
+| D7  | Все времена храним в UTC, клиент передает TZ в заголовке; единый middleware для idempotency/updated_at/request_id                                             | Устойчивость Offline Sync, консистентность данных, снижение риска критических багов в проде                   | Егор / Даниил                  |
+| D8  | Crash-free цель для MVP: ≥99% (цель после стабилизации — 99.5%+)                                                                                              | Поддержка премиального позиционирования продукта и Pro-монетизации                                            | Олег / Леонид                  |
+| D9  | Обязательная аналитика для событий A1/A2 с первого релиза (User_SignUp, Onboarding_Complete, Task_Created, Calendar_Connected и др.)                          | Необходимо для измерения активации, конверсии в Pro и продуктовых решений                                     | Антон / Виктор / Даниил / Егор |
+| D10 | Design-файлы P1 (UI Kit v1.0, Ready for Dev) считаются единственным источником правды для визуала и взаимодействий                                            | Устранение разночтений, ускорение разработки и QA, снижение design-debt                                       | Борис                          |
+| D11 | AI Planner API и JSON-схемы фиксируются как отдельный контракт, backend агрегирует данные, клиент передает только период и request_id                         | Разделение ответственности, упрощение клиента, соблюдение AI Architecture                                     | Игорь / Егор                   |
+| D12 | QA Definition of Ready/Done становится обязательной для задач Sprint 01, влияющих на A1/A2                                                                    | Защита от недоделанных задач в критичных сценариях, контроль качества с первого инкремента                    | Леонид / Антон                 |
+
+---
+
+## 4. Action Items
+
+### 4.1 Product
+
+| #  | Action Item                                                                                                                                                                    | Owner          | Deadline (относительно встречи) | Статус |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------------------- | ------ |
+| P1 | Зафиксировать Sprint 01 Scope в формате Sprint Plan (Auth/Onboarding, Tasks CRUD без целей, Calendar Day basic, Inbox MVP, Notifications infra, аналитика A1) и завести в Jira | Антон          | 3 рабочих дня                   | Open   |
+| P2 | Подготовить сводную таблицу DoR/DoD по модулям Sprint 01 (Auth, Onboarding, Tasks, Calendar Day, Inbox, Notifications, Analytics)                                              | Антон          | 3 рабочих дня                   | Open   |
+| P3 | Формально описать A1/A2 сценарии и добавить их в Metrics Plan                                                                                                                  | Антон / Виктор | 5 рабочих дней                  | Open   |
+| P4 | Синхронизировать Event Spec c фактическим scope Sprint 01 (A1-события)                                                                                                         | Виктор         | 5 рабочих дней                  | Open   |
+
+### 4.2 Design
+
+| #    | Action Item                                                                                                                                    | Owner    | Deadline       | Статус |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------- | ------ |
+| Dsg1 | Подтвердить и заморозить список P1-экранов для Sprint 01; убедиться, что все состояния (empty/error/loading/offline) находятся в Ready for Dev | Борис    | 3 рабочих дня  | Open   |
+| Dsg2 | Обновить Interaction Guidelines для A1-flow и Calendar Day без drag&drop                                                                       | Григорий | 5 рабочих дней | Open   |
+| Dsg3 | Зафиксировать дизайн-токены (цвета, типографика, spacing, corner radius, состояния) и согласовать naming c mobile-командой                     | Борис    | 3 рабочих дня  | Open   |
+
+### 4.3 Mobile
+
+| #  | Action Item                                                                                                                          | Owner                              | Deadline                           | Статус |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ---------------------------------- | ------ |
+| M1 | Завершить и зафиксировать skeleton архитектуры (слои, DI, навигация shell, storage-контракты)                                        | Даниил                             | до конца 1-й недели Sprint 01      | Open   |
+| M2 | Реализовать Theme / Design System (AppTheme, типографика, colors, базовые компоненты) согласно токенам Figma                         | Даниил / Дмитрий                   | до середины Sprint 01              | Open   |
+| M3 | Реализовать Auth/Onboarding (домен, состояние экранов, навигация, валидация, обработка ошибок) с интеграцией с Auth API по контракту | Дмитрий (под руководством Даниила) | до конца Sprint 01                 | Open   |
+| M4 | Реализовать базовый Tasks CRUD (список, создание, редактирование, завершение) без целей                                              | Дмитрий                            | до конца Sprint 01                 | Open   |
+| M5 | Реализовать Calendar Day: отображение событий + создание простого события, без drag&drop и сложных recurrence                        | Дмитрий                            | конец Sprint 01 / начало Sprint 02 | Open   |
+| M6 | Реализовать offline-queue v1 для задач и событий (updated_at + request_id)                                                           | Даниил                             | до конца Sprint 01                 | Open   |
+| M7 | Интегрировать аналитические события A1 (User_SignUp, Onboarding_Complete, Task_Created, Reached_Calendar)                            | Даниил / Дмитрий                   | до конца Sprint 01                 | Open   |
+
+### 4.4 Backend
+
+| #  | Action Item                                                                                                                        | Owner          | Deadline                                 | Статус  |
+| -- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---------------------------------------- | ------- |
+| B1 | Реализовать Auth API (/signup, /login, /refresh, /forgot, /reset, /logout) согласно спецификации                                   | Егор / Евгений | до середины Sprint 01                    | Open    |
+| B2 | Реализовать Tasks API (CRUD без подзадач/recurrence на MVP-этапе) с полями priority, estimated_minutes, due_at, status, goal_id    | Егор / Евгений | до конца Sprint 01                       | Open    |
+| B3 | Реализовать Calendar Events API для Day View (CRUD + базовая логика без сложных recurrence)                                        | Егор / Евгений | конец Sprint 01 / начало Sprint 02       | Open    |
+| B4 | Реализовать единый middleware для TZ/idempotency (UTC storage, TZ header, updated_at, request_id) и прокинуть во все критичные API | Егор           | до конца Sprint 01                       | Open    |
+| B5 | Реализовать backend-агрегацию данных для AI Planner (tasks_min, calendar_min, preferences, goals_min)                              | Егор / Евгений | Sprint 02 (подготовка в конце Sprint 01) | Planned |
+
+### 4.5 AI
+
+| #   | Action Item                                                                                                                          | Owner                               | Deadline                                 | Статус  |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- | ---------------------------------------- | ------- |
+| AI1 | Зафиксировать JSON-схемы минимального контракта Planner v1 (tasks_min, calendar_min, preferences, goals_min) и согласовать с backend | Игорь                               | 3 рабочих дня                            | Open    |
+| AI2 | Реализовать stub-реализацию /v1/ai/plan_week (детерминированный шаблонный план)                                                      | Константин (под руководством Игоря) | Sprint 02 (подготовка в конце Sprint 01) | Planned |
+| AI3 | Добавить audit-поля (request_id, user_hash, model_version, prompt_version) в AI сервис                                               | Игорь / Константин                  | Sprint 02                                | Planned |
+| AI4 | Подготовить sample payloads (простая неделя, перегруженная неделя, выходные) для мобайла и QA                                        | Константин                          | до начала Sprint 02                      | Planned |
+
+### 4.6 QA
+
+| #   | Action Item                                                                                                  | Owner         | Deadline              | Статус |
+| --- | ------------------------------------------------------------------------------------------------------------ | ------------- | --------------------- | ------ |
+| QA1 | Сформировать Smoke Test Checklist для Sprint 01 (Auth, Navigation, Calendar Day basic, Tasks, Offline-queue) | Леонид / Марк | 5 рабочих дней        | Open   |
+| QA2 | Оформить QA Definition of Ready/Done для задач Sprint 01, влияющих на A1/A2                                  | Леонид        | 5 рабочих дней        | Open   |
+| QA3 | Настроить QA-стенд и debug-режим аналитики (видимость ключевых событий A1/A2)                                | Марк          | до середины Sprint 01 | Open   |
+| QA4 | Подготовить e2e-сценарии для проверки TZ и offline-синхронизации (Tasks + Calendar)                          | Леонид / Марк | до конца Sprint 01    | Open   |
+
+
+========================================
+ФАЙЛ: ./LifeMerge/00_Administration/Meeting_Notes/MEETING NOTE — Strategic MVP Planning /Sprint Do R Do D.md
+========================================
+
+## DoR / DoD Таблица — Sprint 01 (LifeMerge MVP)
+
+| Модуль            | DoR                                                                          | DoD                                                                                                           | Блокирующие зависимости                           |
+| ----------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Auth              | UI в Ready for Dev, Auth API спецификация финализирована                     | Форма работает, ошибки валидируются, токены обрабатываются, debug-логика событий есть                         | Auth API (B1)                                     |
+| Onboarding        | Экраны + flow в Figma, Interaction описан, данные профиля уточнены           | Онбординг сохраняет график, фиксируется `Onboarding_Complete`, навигация завершает на Calendar Day            | Schedule Settings, Event Spec                     |
+| Tasks             | Список + форма + состояния экрана готовы, API финализирован                  | CRUD работает, `Task_Created` логируется, offline-queue интегрирован                                          | Tasks API (B2), Storage Layer                     |
+| Calendar Day      | Экраны и таймлайн в Ready for Dev, API по /events подтверждён                | События отображаются и создаются, `Reached_Calendar` логируется, поддержка offline                            | Calendar API (B3), Timezone Middleware (B4)       |
+| Inbox MVP         | UX поток описан, UI в Ready, структура хранения известна                     | Записи создаются, отображаются, конвертация в задачу работает                                                 | Tasks (M4), Storage                               |
+| Notifications     | Push-структура определена, системные разрешения проработаны                  | Приложение может прислать локальный push, инфра не падает, покрыто smoke                                      | Firebase, Permissions                             |
+| Analytics Events  | Event Spec готов, события A1 определены                                      | Все ключевые события A1 (`User_SignUp`, `Onboarding_Complete`, `Task_Created`, `Reached_Calendar`) логируются | Event Spec, Analytics SDK                         |
+| Core Architecture | Навигация, DI, AppTheme, offline-queue API описаны                           | Навигация работает, UI подключён к теме, offline-операции синкаются                                           | Mobile skeleton (M1), Storage, Backend Middleware |
+| AI Planner (stub) | JSON-схемы (tasks_min и др.) согласованы, структура /plan_week зафиксирована | Заглушка API доступна, schema-валидатор встроен, sample payloads готовы                                       | AI1, B5, Tasks, Calendar, Preferences onboarding  |
+
+
+========================================
+ФАЙЛ: ./LifeMerge/00_Administration/Meeting_Notes/MEETING NOTE — Strategic MVP Planning /Sprint Planning.md
+========================================
+
+## Sprint Planning — Sprint 01 (LifeMerge MVP)
+
+**Даты спринта:** 15.12.2025 — 29.12.2025
+**Product Owner:** Антон (PM)
+**Scrum Master:** Олег (CEO, в роли фассилитатора)
+**Команда:** Mobile (Даниил, Дмитрий), Backend (Егор, Евгений), AI (Игорь, Константин), QA (Леонид, Марк), Product (Антон, Виктор), Design (Борис, Григорий)
+
+---
+
+### 🎯 Цель Sprint 01
+
+Закладка технического и продуктового фундамента MVP, реализация сценария A1:
+**Install → Registration → Onboarding → First Task or Event Created ≤ 5 минут.**
+
+---
+
+### 🧱 Состав фич и модулей
+
+| Модуль            | Описание                                                                 |
+| ----------------- | ------------------------------------------------------------------------ |
+| Auth              | Регистрация, логин, восстановление, logout                               |
+| Onboarding        | Онбординг-мастер, выбор графика, завершение flow                         |
+| Tasks             | Список, создание, редактирование, завершение задач                       |
+| Calendar Day      | Просмотр событий на день, создание события                               |
+| Inbox MVP         | Быстрая запись, отображение входящих                                     |
+| Notifications     | Push-инфраструктура, напоминания о событиях и задачах                    |
+| Analytics Events  | Интеграция событий: User_SignUp, Onboarding_Complete, Task_Created и др. |
+| Core Architecture | DI, навигация, offline-queue, дизайн-система, storage                    |
+| AI Planner (stub) | JSON-схемы, /plan_week заглушка, sample payloads, audit metadata         |
+
+---
+
+### 🔗 Связь с метриками и сценариями
+
+* **A1 (Activation):** покрывается полностью.
+* **A2 (Goal/Calendar):** подготовка foundation для Sprint 02.
+* **WPAR:** подготавливаются элементы (задача, слот, цель) для расчёта.
+
+---
+
+### 📌 Зависимости
+
+* Backend API (Auth, Tasks, Calendar) должны быть готовы в рамках спринта.
+* AI контракты JSON (tasks_min и др.) входят в DoR.
+* QA стенд и debug-аналитика — обязательны к середине спринта.
+
+---
+
+### ✅ Definition of Ready (DoR)
+
+* Дизайн в статусе "Ready for Dev".
+* API/JSON-схемы зафиксированы.
+* UI Kit и Interaction Guidelines синхронизированы.
+* Сценарии аналитики определены и внесены в Event Spec.
+
+### ✅ Definition of Done (DoD)
+
+* Все критичные баги устранены.
+* Интеграционные события шлются в debug.
+* Покрытие smoke QA сценариев.
+* Модули работают офлайн и проходят sync.
+* Визуально соответствуют UI Kit и Interaction Guidelines.
+
+---
+
+### 📁 Подзадачи (см. в Jira)
+
+* [M1] Завершение skeleton архитектуры (Mobile)
+* [M3] Auth/Onboarding UI + логика + API интеграция
+* [M4] Tasks CRUD MVP
+* [M5] Calendar Day View MVP
+* [M6] Offline queue для задач/событий
+* [B1] Auth API
+* [B2] Tasks API
+* [B3] Calendar Day API
+* [B4] Middleware TZ/idempotency
+* [AI1] JSON-схемы Planner v1
+* [AI4] Sample payloads
+* [QA1] Smoke checklist
+* [QA3] Debug-аналитика A1
 
 
 ========================================
@@ -4364,6 +4857,169 @@ figma.com
 Такой подход к организации файла получил положительные отзывы внутри команды: «Если макеты явно отмечены как “готово к разработке” и собраны на одной странице, ориентироваться очень легко». Разработчики точно знают, где смотреть, и уверены, что эти экраны актуальны и утверждены. Это снижает количество вопросов и ошибок на этапе реализации, ускоряет интеграцию (так как компоненты и стили уже систематизированы).
 
 ========================================
+ФАЙЛ: ./LifeMerge/02_Design/UI_Kit/UI Kit & Wireframes figma.md
+========================================
+
+LifeMerge UI Kit & Wireframes Implementation
+
+This document summarises the finalised UI Kit v1.0, outlines the key wireframes for the MVP, and lists the screens that are marked as Ready for Development. Since direct editing in Figma is unavailable in this environment, the specifications are provided here for import into your design tool of choice.
+
+UI Kit Components
+Buttons
+
+Three button styles are defined: Primary, Secondary and Tertiary. All buttons have a fixed height of 48 pt and rounded corners with a 10 pt radius. States include:
+
+Default – normal background and label colours based on button type.
+
+Pressed – background darkens slightly to indicate active press.
+
+Disabled – lower opacity and muted colours; the button is not interactive.
+
+Loading – shows an inline spinner in place of, or alongside, the label.
+
+Input Fields
+
+Text input fields are sized at 48 pt high and include a label, placeholder, optional icon and helper text. Supported states:
+
+Default – empty field with placeholder text.
+
+Focused – border highlights and the label floats above the input.
+
+Filled – displays the user’s input; label remains above the field.
+
+Error – border changes to the error colour; an error message appears below.
+
+Disabled – muted appearance; the field is read‑only.
+
+Cards
+
+Cards act as containers for related content. They have 12 pt corner radius and a subtle shadow elevation. Three variants exist:
+
+Variant	Use case
+TaskCard	Shows task title, due date, priority and status
+EventCard	Displays event name, date/time and location
+FinanceCard	Contains transaction amount, category and type
+
+Cards may elevate slightly or change shadow on hover or press.
+
+Chips
+
+Chips (tags) are used for categories and filters. They have a height of 28 pt with rounded ends. States include default (neutral border or background), selected (filled with accent colour and contrasting text) and disabled (reduced opacity).
+
+App Bar
+
+The top navigation bar is 56 pt high and contains a title and action icons. It adapts to light and dark themes. The bar may include a back button or menu icon on the left and context‑specific actions on the right.
+
+Bottom Navigation
+
+Bottom navigation consists of five items – Calendar, Tasks, Finance, Inbox and Profile. Each item shows an icon and optional label. States: default (neutral colour) and selected (accent colour and bold label). Icons switch colours in dark mode.
+
+Spinners & Loading Indicators
+
+Use circular spinners for indeterminate processes and skeleton placeholders for loading lists or cards. Where possible, use progress bars to indicate determinate progress. Indicators adopt neutral or primary colours appropriate for the active theme.
+
+Colour Tokens
+
+The palette is defined via tokens to support light and dark themes. Key tokens include:
+
+Token	Description
+primary	Main brand colour for highlights
+secondary	Secondary accent or supporting colour
+background	Page background colour
+surface	Surface backgrounds (cards, panels)
+error	Colour used for error states
+success	Colour used for success messages
+warning	Colour used for warnings
+onPrimary	Colour of text/icons on a primary surface
+onSecondary	Colour of text/icons on secondary surfaces
+onBackground	Colour of text/icons on the background
+onSurface	Colour of text/icons on a surface
+
+Each token has values for both the light and dark themes to maintain sufficient contrast.
+
+Typography
+
+The type scale defines a clear hierarchy:
+
+Style	Approximate size	Use
+H1	32 pt	Main page titles
+H2	24 pt	Section titles
+H3	20 pt	Subsection headings
+Body 1	16 pt	Primary body text
+Body 2	14 pt	Secondary text
+Caption	12 pt	Annotations and captions
+Button	16 pt (bold)	Labels on buttons
+Edge Cases & States
+
+Proper handling of edge cases is critical for a polished user experience:
+
+Empty states – when there is no content, show a friendly illustration and a brief message that explains the situation and offers a call‑to‑action to add content.
+
+Error states – use the error colour token to highlight inputs or modules in error; provide clear messages and actions to recover (e.g. a Retry button for network errors).
+
+Loading states – display skeleton placeholders or spinners while data is loading; subtle animations convey that the content is on its way.
+
+Offline states – when connectivity is lost, show a banner or toast informing the user. Disable network‑dependent actions and allow offline functionality where possible. Notify the user once the connection returns.
+
+MVP Wireframes
+
+The following wireframes outline the core screens for the MVP. They are described at a structural level without visual styling so they can be implemented in any design tool.
+
+Auth Screens
+
+Onboarding – a series of slides introducing the value of the app with imagery and short text. Users can navigate forward or skip entirely.
+
+Schedule Setup – an optional step where the user specifies their working pattern or preferred hours to personalise scheduling.
+
+Registration – a form capturing email and password with inline validation and error feedback.
+
+Login – a simple form for returning users to sign in with their credentials; includes an option to stay signed in.
+
+Password Recovery – a two‑step flow to request a password reset via email and to confirm the reset.
+
+Calendar Screens
+
+Day View – detailed schedule for a single day with time slots and events stacked vertically. A floating action button allows creation of a new event.
+
+Week View – a grid of seven columns representing days of the week with events displayed as blocks. Suitable for viewing relative occupancy across the week.
+
+Month View – an overview calendar showing days of the month with subtle markers indicating the presence of events. Selecting a day drills down to the Day View.
+
+Create Event – a form to add a new event: name, date/time picker, location and optional description; includes options for repetition and reminders.
+
+Event Details – displays all information about an event (title, date/time, location, description, participants) and provides actions to edit or delete the event.
+
+Task Screens
+
+Task List – shows all tasks grouped by filters (e.g. by status or priority). Each item has a checkbox to mark it complete.
+
+Task Detail – presents full details of a task: description, due date, context, priority, attachments, and allows editing or deletion.
+
+Task Form – a form for creating or editing tasks; fields include name, description, due date, priority, context and reminder settings.
+
+Ready for Development Screens
+
+The following screens and components have been finalised and are ready to be handed off to engineering. They comply with the UI Kit and meet the Definition of Ready/Done criteria:
+
+Onboarding_v1
+
+Register_v1
+
+Login_v1
+
+Recovery_v1
+
+Calendar_Day_v1
+
+Task_List_v1
+
+Task_Detail_v1
+
+Event_New_v1
+
+Each screen uses components defined in UI Kit v1.0 and accounts for all edge cases and states. These designs align with the MVP scope and can be imported into Figma or another design tool to continue development.
+
+========================================
 ФАЙЛ: ./LifeMerge/03_Technical/API/AI_Planner_API.md
 ========================================
 
@@ -6391,6 +7047,16 @@ AI — ключевая зона LifeMerge. Метрики делятся на 4
 * Users using semi-auto mode ≥ 10%
 * AI zone violation < 0.5%
 * Productivity uplift score (опросник) ≥ +15%
+
+North Star Metric – WPAR (Weekly Planning Activity Rate): доля активных пользователей за неделю, которые составили интегрированный план – связали задачу с событием календаря и целью.
+Формула: WPAR = (число пользователей с ≥1 связкой «задача+событие+цель» за неделю) / (общее число Weekly Active Users) × 100%.
+Обоснование: этот показатель отражает основную ценность продукта – активное еженедельное планирование. Чем выше WPAR, тем больше пользователей полноценно используют приложение для планирования времени, задач и целей, что коррелирует с долгосрочным удержанием.
+
+Удержание на 7-й день (Retention D7): процент новых пользователей, которые возвращаются в приложение через 7 дней после регистрации. Используется для оценки удержания аудитории; целевой уровень – >30% возвращений на 7-й день. <br/>События: отслеживается по повторным визитам пользователя (например, событие App_Open на 7-й день после Signup).
+
+Task-to-Calendar Attachment Rate: доля задач, которые были привязаны к событиям календаря. Формула: (задачи, добавленные в календарь) / (все созданные задачи) × 100%. Показатель демонстрирует, насколько активно пользователи планируют задачи во времени (в календаре). Стремимся повышать этот процент, так как привязка задач к расписанию свидетельствует о глубоком использовании продукта. <br/>События: отслеживается по событиям Task_Created и Task_Scheduled (сколько задач создано и сколько из них размещено на календаре).
+
+Конверсия онбординга и настройки календаря: доля новых пользователей, которые завершили онбординг и создали первую задачу/событие (A1), а также подключили календарь (настроили расписание, этап A2) после регистрации. Важный показатель активации новых пользователей; целевой уровень A1-конверсии – >70%, при времени до достижения A1 < 5 минут. <br/>События: фиксируется событиями Onboarding_Complete (успешное прохождение onboarding) и Calendar_Connected (подключение внешнего календаря) у каждого нового пользователя.
 
 ========================================
 ФАЙЛ: ./TECHNICAL SPECIFICATIONS.md
